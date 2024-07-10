@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="device_statistic">Device statistic</string>
+</resources>
